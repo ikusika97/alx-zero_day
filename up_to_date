@@ -1,3 +1,1 @@
-“git pull”
-echo -m 'How to be up to date in git'
-git push origin
+“git pull"
